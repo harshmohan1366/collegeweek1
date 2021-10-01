@@ -5,7 +5,7 @@
 # Do not change the function definations or the parameters
 import numpy as np
 import pandas as pd
-
+#this is correct
 #input: tuple (x,y)    x,y:int 
 def create_numpy_ones_array(shape):
 	#return a numpy array with one at all index
